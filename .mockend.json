@@ -6,9 +6,9 @@
     }
   },
   "Vehicle": {
-    "Name": { "string": {'asd'} },
-    "PlateNumber": { "string": {'assd'} },
-    "VehicleType": { "string": {'dd'} },
+    "Name": { "string": {} },
+    "PlateNumber": { "string": {} },
+    "VehicleType": { "string": {} },
   },
   "Comment": {
     "body": { "string": {} },
