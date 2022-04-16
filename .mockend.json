@@ -5,6 +5,11 @@
       "hasMany": "Comment"
     }
   },
+  "Vehicle": {
+    "Name": { "string": {'asd'} },
+    "PlateNumber": { "string": {'assd'} },
+    "VehicleType": { "string": {'dd'} },
+  },
   "Comment": {
     "body": { "string": {} },
     "post": {
