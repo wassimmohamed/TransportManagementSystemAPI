@@ -6,10 +6,10 @@
     }
   },
   "Vehicle": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+    "name": { "string": {} },
+    "plateNumber": { "string": {} },
+    "vehicleType": { "string": {} },
+    "assignedVehicle": { "string": {} }
   },
   "Comment": {
     "body": { "string": {} },
