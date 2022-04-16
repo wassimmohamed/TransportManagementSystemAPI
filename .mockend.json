@@ -9,7 +9,7 @@
     "name": { "string": {} },
     "plateNumber": { "string": {} },
     "vehicleType": { "string": {} },
-    "assignedVehicle": { "string": {} }
+    "assignedDriver": { "string": {} }
   },
   "Comment": {
     "body": { "string": {} },
